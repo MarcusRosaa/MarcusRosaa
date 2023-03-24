@@ -28,5 +28,5 @@
 <br>
 
 #### Rede Sociais!
-[Linkedin](https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/)
-[Portfolio](https://marcusrosaa.github.io/site-portfolio/)
+- [Linkedin](https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/) <br>
+- [Portfolio](https://marcusrosaa.github.io/site-portfolio/)
