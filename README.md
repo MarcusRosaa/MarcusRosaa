@@ -25,11 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRosaa&theme=dracula&hide_langs_below=1" />
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]:(https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/)
+[Linkedin](https://www.linkedin.com/in/marcus-vinicius-santos-da-rosa/)
 <br>
 
 #### Rede Sociais!
