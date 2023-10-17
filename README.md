@@ -25,8 +25,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRosaa&theme=dracula&hide_langs_below=1" />
 </a>
 
-[![card](https://github-readme-stats.vercel.app/api?username=marcusrosaa&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 #### Rede Sociais!
